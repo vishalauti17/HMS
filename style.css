@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+    background-image: url(https://nacscs.ac.in/web-assets/img/slider1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 180vh;
+}
+
+.d2{
+    /* background-color: black; */
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d2 button {
+margin: 15px;
+}
+
+
+
+
+
